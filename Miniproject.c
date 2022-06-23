@@ -1,3 +1,7 @@
+******************************************************************************
+             TOURISM MANAGMENT 
+DONE AS A PROJECT BY EKANSH MAHESHWARI, ABHAY DHARAIK, KULDEEP RAJPURE
+*******************************************************************************/
 
 #include <stdio.h>
 #include <string.h>
